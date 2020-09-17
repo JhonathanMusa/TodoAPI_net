@@ -1,0 +1,24 @@
+#zonaDeSoltar,
+#arrastrables {
+  display: flex;
+}
+
+#arrastrables {
+  margin: 10px 17px 0 10px;
+}
+
+.arrastrable {
+  flex: 0 0 100px;
+  height: 160px;
+  text-align: center;
+  background: #ffffff;
+  border: 1px solid;
+}
+
+.zona-de-soltar {
+  flex: 0 0 100px;
+  height: 160px;
+  background: coral;
+  padding: 10px;
+  margin: 10px 10px 0 0;
+}
