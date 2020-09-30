@@ -13,6 +13,8 @@
   text-align: center;
   background: #ffffff;
   border: 1px solid;
+  margin: 15px;     
+  border-radius: 5px;
 }
 
 .zona-de-soltar {
@@ -21,4 +23,6 @@
   background: coral;
   padding: 10px;
   margin: 10px 10px 0 0;
+  margin-left: 10px;
+  border-radius: 5px;
 }
